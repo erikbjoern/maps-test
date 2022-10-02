@@ -1,0 +1,11 @@
+
+auto-push Sun Oct 2 20:36:34 CEST 2022
+ .gitignore                          |   3 +
+ index.html                          |  22 +--
+ package.json                        |   5 +-
+ src/App.vue                         | 112 +++++++++++--
+ src/GoogleMapComponent.vue          |  61 +++++++
+ src/assets/style.css                |  11 ++
+ src/components/NestedDomContent.vue |  12 ++
+ yarn.lock                           | 311 +++++++++++++++++++++++++++++++++++-
+ 8 files changed, 513 insertions(+), 24 deletions(-)

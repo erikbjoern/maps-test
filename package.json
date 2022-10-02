@@ -11,8 +11,11 @@
     "lint:fix": "eslint . --ext .js,.ts,.vue,.html --fix"
   },
   "dependencies": {
+    "@tomtom-international/web-sdk-maps": "^6.20.0",
+    "@vueuse/core": "^9.3.0",
     "radash": "^7.1.0",
-    "vue": "^3.2.37"
+    "vue": "^3.2.37",
+    "vue3-google-map": "^0.15.0"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
